@@ -18,6 +18,8 @@ if flipped two icons are the same, they'll be visable, else they all be hidden a
 
 Moves counter and timer are applied to to evaluate a player's perfomance, meanwhile final stars are based on the number of moves.
 
+To play game: https://chenhaow.github.io/Memory-Game/
+
 ## Contributing
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
